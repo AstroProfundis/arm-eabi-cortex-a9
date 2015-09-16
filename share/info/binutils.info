@@ -43,7 +43,7 @@ Introduction
 ************
 
 This brief manual contains documentation for the GNU binary utilities
-(UBERTC-4.9.4) version 2.25.51:
+(UBER Toolchain - ATR GCC 4.9.4 - Cortex-A9) version 2.25.51:
 
    This document is distributed under the terms of the GNU Free
 Documentation License version 1.3.  A copy of the license is included in
@@ -5001,34 +5001,34 @@ Binutils Index
 
 Tag Table:
 Node: Top1893
-Node: ar3606
-Node: ar cmdline6828
-Node: ar scripts17161
-Node: nm22847
-Node: objcopy32667
-Node: objdump67853
-Node: ranlib90928
-Node: size92527
-Node: strings95503
-Node: strip99550
-Node: c++filt106764
-Ref: c++filt-Footnote-1111578
-Node: addr2line111684
-Node: nlmconv116213
-Node: windmc118792
-Node: windres122449
-Node: dlltool128808
-Node: def file format141805
-Node: readelf144335
-Node: elfedit152026
-Node: Common Options154278
-Node: Selecting the Target System155312
-Node: Target Selection156244
-Node: Architecture Selection158225
-Node: Reporting Bugs159053
-Node: Bug Criteria159832
-Node: Bug Reporting160385
-Node: GNU Free Documentation License167255
-Node: Binutils Index192415
+Node: ar3636
+Node: ar cmdline6858
+Node: ar scripts17191
+Node: nm22877
+Node: objcopy32697
+Node: objdump67883
+Node: ranlib90958
+Node: size92557
+Node: strings95533
+Node: strip99580
+Node: c++filt106794
+Ref: c++filt-Footnote-1111608
+Node: addr2line111714
+Node: nlmconv116243
+Node: windmc118822
+Node: windres122479
+Node: dlltool128838
+Node: def file format141835
+Node: readelf144365
+Node: elfedit152056
+Node: Common Options154308
+Node: Selecting the Target System155342
+Node: Target Selection156274
+Node: Architecture Selection158255
+Node: Reporting Bugs159083
+Node: Bug Criteria159862
+Node: Bug Reporting160415
+Node: GNU Free Documentation License167285
+Node: Binutils Index192445
 
 End Tag Table
